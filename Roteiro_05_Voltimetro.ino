@@ -1,3 +1,8 @@
+/*
+OBJETIVO
+Criar um sistema que leia a tensão sobre um potenciômetro e exiba a tensão em V pelo
+serial monitor.
+*/
 const int analogInPin = A0;   
 
 float sensorValue = 0;        
