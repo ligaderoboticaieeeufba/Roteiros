@@ -1,4 +1,8 @@
-//Roteiro 2
+/*
+OBJETIVO
+Construir um sistemas com 3 LED vermelhos e um botão que enquanto pressionado
+acione os leds de forma crescente e quando liberado decresça a barra de leds.
+*/
 
 void setup() {
 pinMode(2,OUTPUT);
