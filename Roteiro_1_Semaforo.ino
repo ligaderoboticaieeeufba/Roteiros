@@ -1,3 +1,9 @@
+/* 
+OBJETIVO
+Construir um Semáforo com as luzes vermelho, amarelo e verde com o tempo ativo 3, 1, 5
+segundos respectivamente.
+*/
+
 #define ledvermelho 12
 #define ledamarelo 11
 #define ledverde 10
