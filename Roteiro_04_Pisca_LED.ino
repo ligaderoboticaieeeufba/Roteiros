@@ -6,8 +6,6 @@ potenciômetro.
 
 void setup() {
 pinMode(2,OUTPUT);
-pinMode(A1,INPUT);
-int pot; 
 }
 
 void loop() {
